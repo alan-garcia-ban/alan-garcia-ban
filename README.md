@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Alan Gustavo Garcia 0rmachea
+## 👋 ¡Hola! Soy Alan Gustavo Garcia 0rmachea
 
 🎓 Soy estudiante de Ingeniería en Sistemas  
 💻 Me interesa el mundo de la tecnología  
